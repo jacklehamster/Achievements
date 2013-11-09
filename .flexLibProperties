@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.dobuki.achievements.Achievements"/>
+    <classEntry path="com.dobuki.achievements.portals.GameJolt"/>
+    <classEntry path="com.dobuki.achievements.portals.Newgrounds"/>
+    <classEntry path="com.dobuki.achievements.IAchievements"/>
+    <classEntry path="com.dobuki.achievements.Trophy"/>
+    <classEntry path="com.dobuki.achievements.portals.Kongregate"/>
+    <classEntry path="com.dobuki.achievements.ScoreTable"/>
+    <classEntry path="com.dobuki.achievements.portals.Mochi"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
